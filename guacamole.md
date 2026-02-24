@@ -6,3 +6,4 @@
 ## Instructions
 * put one avocado into a bowl. 
 * mash the avocado until it is smooth. 
+* juice lime onto avocado in bowl. 
