@@ -4,4 +4,5 @@
 * lime  (1)
 * salt  (1)
 ## Instructions
-* put one avocado into a bowl. 
+* put one avocado into a bowl.
+* juice lime onto avocado in bowl 
