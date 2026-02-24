@@ -5,3 +5,4 @@
 * salt  (1)
 ## Instructions
 * put one avocado into a bowl. 
+* mash the avocado until it is smooth. 
